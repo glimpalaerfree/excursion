@@ -1,3 +1,8 @@
 .important {
     font-weight: bold;
 }
+
+.cta {
+    color: Aquamarine;
+    font-size: 16px;
+}
